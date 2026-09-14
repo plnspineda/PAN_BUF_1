@@ -19,5 +19,3 @@ This is a repository of codes for the paper: Reference-free water buffalo pangen
 |-----------------|-------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-----------|
 | CPU             | 105   | 2x Intel(R) Xeon(R) Platinum 8360Y CPU, 36 cores @ 2.4GHz,   255000 MiB memory(around 256 GB per node)   | 7560 CPUs, 26 TB of memory                         | N/A         | 2022-2023 |
 | CPU High Memory | 8     | 2x Intel(R) Xeon(R) Platinum 8360Y CPU, 36 cores @ 2.4GHz,   1990000 MiB memory (around 2TB per node)    | 576 CPUs, 16 TB of memory                          | N/A         | 2022-2023 |
-| GPU             | 50    | 2x Intel(R) Xeon(R) Platinum 8360Y CPU, 36 cores @ 2.4GHz,   515000 MiB memory, 4x Nvidia A100-SXM4-40GB | 3600 CPU, 200 GPUs, 25 TB of memory                | N/A         | 2022-2023 |
-| SYSTEM TOTAL    | 163   |                                                                                                          | 11736 cores, 200 GPU   accelerators, 242 TB memory |             |           |
