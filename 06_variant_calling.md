@@ -87,3 +87,8 @@ After indexing the graph, variant calling was done using `scripts/vg_giraffe/run
 Each vcf files were then [zipped](scripts/vg_giraffe/1_bgzip.sh), [concatenated](scripts/vg_giraffe/2_bcfconcat_v2.sh), [merged](scripts/vg_giraffe/3_bcfmerge_all.sh) and [variants separated](scripts/vg_giraffe/4_seperate_variants.sh).
 
 Non-polymorphic variants were removed using `scripts/vg_giraffe/run_polymorphic.sh`.
+
+## BWA MEM and GATK
+
+`scripts/bwa_gatk`
+
