@@ -92,4 +92,4 @@ Non-polymorphic variants were removed using `scripts/vg_giraffe/run_polymorphic.
 
 `scripts/bwa_gatk`
 
-1. Align samples using nextflow configs:   `nextflow run [main.nf](scripts/bwa_gatk/main_v1.nf)` with [nextflow.config](scripts/bwa_gatk/nextflow.config) and [samples](scripts/bwa_gatk/samples.tsv)
+1. Align samples using nextflow configs:   nextflow run [main.nf](scripts/bwa_gatk/main_v1.nf) with [nextflow.config](scripts/bwa_gatk/nextflow.config) and [samples](scripts/bwa_gatk/samples.tsv)
